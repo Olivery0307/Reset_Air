@@ -33,8 +33,8 @@ Example output:
 
 To generate the evaluation report, run analysis_report.ipynb. This will create CSV files for each parameter, and generate a report that compares the data at peak times with the average values.\
 Example output:
-|Device1_humidity|	Device2_humidity|	Device3_humidity|	Device4_humidity|	Device5_humidity
-|----------|----------|----------|----------|----------|
+||Device1_humidity|	Device2_humidity|	Device3_humidity|	Device4_humidity|	Device5_humidity
+|----------|----------|----------|----------|----------|----------|
 |percent_diff|	-0.05%|	0.07%|	0.19%|	1.31%|	-1.54%|
 |pass_fail|	Pass|	Pass|	Pass|	Pass|	Pass|
 |reference|	1.51%|	1.63%|	1.75%|	2.87%|	0.02%|
