@@ -40,4 +40,5 @@ Example output:
 |reference|	1.51%|	1.63%|	1.75%|	2.87%|	0.02%|
 |reference_pass_fail|	Pass|	Pass|	Pass|	Pass|	Pass|
 
+#### For more details about RESET Air, check https://www.reset.build/standard/air
 
